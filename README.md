@@ -81,6 +81,7 @@ whois hackthissite.org
 ```bash
 nslookup hackthissite.org
 ```
+<img width="1904" height="997" alt="nslookup" src="https://github.com/user-attachments/assets/e97dbf49-4e28-4ebe-a8fe-6ac5a7154f3b" />
 
 **What it does:** Queries DNS servers to resolve domain names to IP addresses.
 
@@ -106,6 +107,7 @@ theHarvester -d hackthissite.org -b yahoo
 ```
 
 **What it does:** Harvests emails, subdomains, and hosts from public search engines.
+<img width="1691" height="872" alt="theHarvester" src="https://github.com/user-attachments/assets/9f20f05c-91d7-456f-8d5d-f5243bfae8d1" />
 
 **What I Found:**
 - 📧 Email: `sam@hackthissite.org`
@@ -127,6 +129,8 @@ amass enum -d hackthissite.org -v
 
 **What it does:** Performs deep subdomain enumeration using DNS brute forcing,
 certificate transparency logs, and 50+ public API integrations.
+
+<img width="1710" height="460" alt="Amass" src="https://github.com/user-attachments/assets/b4c6511f-f067-48ff-a928-174aed45c6f0" />
 
 **What I Found:**
 - Completed **2636/2636 enumeration tasks** at 100%
@@ -150,6 +154,8 @@ dnsrecon -d hackthissite.org --lifetime 10
 ```
 
 **What it does:** Enumerates all DNS records including A, MX, TXT, SPF, DMARC, and SRV.
+
+<img width="1708" height="750" alt="dnsrecon" src="https://github.com/user-attachments/assets/ed3db64e-8ce3-47cc-856a-3f37202c2cb6" />
 
 **What I Found:**
 
@@ -182,6 +188,8 @@ show hosts
 
 **What it does:** Framework-based OSINT tool that uses modules to harvest data
 from search engines, APIs, and public databases.
+<img width="1708" height="939" alt="Recon-ng" src="https://github.com/user-attachments/assets/6db0cd9d-1bc5-4caa-8b08-21eb1c59133b" />
+
 
 **What I Found — 21 Subdomains:**
 
@@ -208,6 +216,8 @@ from search engines, APIs, and public databases.
 
 **What it does:** Searches its database of internet-scanned devices to reveal
 open ports, running services, and technologies — without touching the target.
+
+<img width="1917" height="970" alt="shodan io" src="https://github.com/user-attachments/assets/86649c06-1a7c-439b-a815-3d22ad020b7e" />
 
 **What I Found:**
 ```
@@ -238,6 +248,8 @@ CORS        : Access-Control-Allow-Origin: * (dangerous ⚠️)
 
 **What it does:** Visual intelligence tool that automatically maps relationships
 between domains, IPs, emails, people, and organizations using transforms.
+
+<img width="1328" height="690" alt="maltego" src="https://github.com/user-attachments/assets/64c41ca2-1a53-47f0-9464-dd51789f2b66" />
 
 **What I Found:**
 - Complete visual graph of all discovered entities
