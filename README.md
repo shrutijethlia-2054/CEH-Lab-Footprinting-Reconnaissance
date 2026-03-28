@@ -1,8 +1,6 @@
 # 🔍 CEH Lab Assignment 1: Footprinting & Reconnaissance
 
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 
 ---
 
