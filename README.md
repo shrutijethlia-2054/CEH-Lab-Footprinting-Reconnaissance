@@ -58,6 +58,7 @@ Type              : Passive & Active Reconnaissance Lab
 ```bash
 whois hackthissite.org
 ```
+<img width="1911" height="1035" alt="whois" src="https://github.com/user-attachments/assets/5000e1a8-e55d-4e6c-898c-f699aac2b5df" />
 
 **What it does:** Queries the WHOIS database to retrieve domain registration details.
 
